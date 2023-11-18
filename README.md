@@ -9,4 +9,4 @@ Using the existing MS threat modeling tool, we still can decompose the use case,
 With the reliable source of threat intelligence and your cloud signal feed, this model/code also can draw the kill chain given the good foundation of existing threat model data.
 
 In addition, this model/code can use updated threat modeling assessment result to feed into the ISO 27005 risk assessment template/questionnaire and automatically re-assess the application and infrastructure risk.
-![image](https://github.com/RonHunk/ThreatModelingKillChainVisualizer/assets/35714750/e3d16218-7330-4e72-b2f1-9886ce109ef7)
+
